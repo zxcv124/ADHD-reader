@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+    background-image: url('https://digitalsynopsis.com/wp-content/uploads/2016/05/sci-fi-monochromatic-gif-animations-carl-burton-23.gif') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3N0eWxlcy5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEiLCJmaWxlIjoic3R5bGVzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgXCJ0YWlsd2luZGNzcy9iYXNlXCI7XG5AaW1wb3J0IFwidGFpbHdpbmRjc3MvY29tcG9uZW50c1wiO1xuQGltcG9ydCBcInRhaWx3aW5kY3NzL3V0aWxpdGllc1wiO1xuXG5ib2R5IHtcbiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoJ2h0dHBzOi8vZGlnaXRhbHN5bm9wc2lzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNS9zY2ktZmktbW9ub2Nocm9tYXRpYy1naWYtYW5pbWF0aW9ucy1jYXJsLWJ1cnRvbi0yMy5naWYnKSAhaW1wb3J0YW50O1xuICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gICAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcbiAgfVxuICAiXX0= */
